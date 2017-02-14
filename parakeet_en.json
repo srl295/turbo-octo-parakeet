@@ -1,2 +1,4 @@
-tweet=Send a Tweet
-folger=Click here to replace your usual breakfast cereal with marmite.
+{
+  "tweet": "Send a Tweet",
+  "folger": "Click here to replace your usual breakfast cereal with marmite."
+}
